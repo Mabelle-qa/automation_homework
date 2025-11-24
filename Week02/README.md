@@ -1,6 +1,6 @@
 # 🧪 Automation Homework – Python CLI Tools
 
-本專案收錄 Chapter 8 的三個作業內容，包含基礎練習與進階挑戰題。  
+本專案收錄 week2 的三個作業內容，包含基礎練習與進階挑戰題。  
 每個作業皆以 Python 撰寫，並透過 CLI 互動方式完成輸入與驗證功能。
 
 ---
