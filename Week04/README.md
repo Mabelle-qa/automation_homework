@@ -25,12 +25,8 @@
 
 ---
 
-## 🛠️ 環境需求
-- Python 3.7+
-- VS Code (建議使用 Run and Debug 模式進行測試)
-
 ## 🚀 執行方式
 
 1. **數字過濾器：**
    ```bash
-   python homework01.py
+   python3 homework01.py
